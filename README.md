@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @rskidmore1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-rskidmore1/rskidmore1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello. 
+My name is Ryan, in case you missed in the rest of my profile. 
+I field any and all inqueries and return messages as quickly as I can. 
+I believe that while coding is important. Equally as important is domain expertise. 
+Thus I try to learn lots about the interesting world outside by travelling often and maintaining a diverse wheel house of hobbies. 

@@ -1,7 +1,7 @@
 
 ## Full Stack Developer here <h1>
 
-_Hello._
+_Hello._<br>
 My name is Ryan, in case you missed in the rest of my profile. 
 I field any and all inqueries and return messages as quickly as I can. 
 I believe that while coding is important. Equally as important is domain expertise. 

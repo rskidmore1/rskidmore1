@@ -9,9 +9,9 @@ I believe that while coding is important. Equally as important is domain experti
 Thus I try to learn lots about the interesting world outside by travelling often and maintaining a diverse wheel house of hobbies. 
 
 **I'm currently working on: **
-  *Building projects in Node,js and React
-  *Learning C
-  *Finishing LearningFuze coding bootcamp
+  * Building projects in Node,js and React
+  * Learning C
+  * Finishing LearningFuze coding bootcamp
   
  ## Links <h5>
 *[Linkedin](https://www.linkedin.com/in/ryan-skidmore1/) 

@@ -19,7 +19,8 @@ Thus I try to learn lots about the interesting world outside by travelling often
 * [Linkedin](https://www.linkedin.com/in/ryan-skidmore1/) 
 * [Portfolio](https://ryanss.co/)
  
- 
+ ## 
+
   
  ![image](https://user-images.githubusercontent.com/11698908/128247765-d8edfc53-cd4e-416b-9a71-e64b93c9abbb.png)
 

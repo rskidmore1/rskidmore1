@@ -1,6 +1,6 @@
 
 ## Full Stack Developer here <h1>
- <span style="color:red">some *blue* text</span>.
+ <span style="color:red">some *blue* text</span>
 
 _Hello._
 My name is Ryan, in case you missed in the rest of my profile. 

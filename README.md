@@ -1,5 +1,5 @@
 
-## Full Stack Developer here <h1>
+## I...am a Full Stack Developer <h1>
 
 _Hello._<br>
 My name is Ryan, in case you missed in the rest of my profile. 
@@ -16,3 +16,6 @@ Thus I try to learn lots about the interesting world outside by travelling often
 * [Linkedin](https://www.linkedin.com/in/ryan-skidmore1/) 
 * [Portfolio](https://ryanss.co/)
   
+ 
+ ![image](https://user-images.githubusercontent.com/11698908/128247590-80882d55-4757-44d1-b0c6-b95b3fdad764.png)
+

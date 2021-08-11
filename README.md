@@ -2,7 +2,7 @@
 ## "Welcome to the internet. I shall be your guide."<h1>
 
 
-## I...am a Full Stack Developer <h3>
+## I am a Full Stack Developer <h3>
 
 _Hello._<br>
 My name is Ryan, in case you missed in the rest of my profile. 

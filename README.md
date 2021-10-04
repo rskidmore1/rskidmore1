@@ -13,7 +13,7 @@ Thus I try to learn lots about the interesting world outside by travelling often
   * Learning C
  
 ## Skills 
-* Limux 
+* Linux
 * Node.js
 * React.js 
 * HTML

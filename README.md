@@ -1,6 +1,6 @@
 
 
-## I am a Full Stack Developer <h3>
+## I am a Full Stack Developer focusing on Front End <h3>
 
 _Hello._<br>
 My name is Ryan. Like many programmers, I have a diversity of hobbies/interests and plurality of influences. Chief among them: the Outdoors and writing songs on the acoustic guitar. Also, I employ long rambling wanders on my motorcycle for inspiration. I believe that while coding is important, equally as important is domain expertise. 
